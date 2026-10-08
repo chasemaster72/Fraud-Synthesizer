@@ -1,6 +1,6 @@
 # Fraud-Synthesizer
 
-![GAN Illustration](gan_image.png)
+![GAN Illustration](gan_image1.png)
 
 ---
 
@@ -9,7 +9,8 @@ Fraudulent transactions are **rare, sensitive, and difficult to collect** — ma
 
 This project uses **Generative Adversarial Networks (GANs)** 🤖 to generate realistic **synthetic fraud transactions** while preserving important patterns from real data.
 
-👉 The generated synthetic data can help expand fraud datasets and improve the training and evaluation of fraud detection models.
+The generated synthetic data can help expand fraud datasets and improve the training and evaluation of fraud detection models.
+
 ---
 
 ## 📊 Dataset  
